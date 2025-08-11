@@ -56,6 +56,3 @@ function comecaCronometro() {
 }
 
 comecaCronometro();
-}
-
-comecaCronometro();
